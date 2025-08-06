@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Advaith Dilip</h1>
-<h3 align="center">A Passionate Full - Stack Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack Development - Clone of Web Apps**
+- 🔭 I’m currently working on **Deepfake Detection using ML**
 
-- 🌱 I’m currently learning **MERN Stack and DSA using JAVA**
+- 🌱 I’m currently learning **Basic of AI/ML**
 
-- 👯 I’m looking to collaborate on **Dev Ops and Cloud Deployment**
+- 👯 I’m looking to collaborate on **Model Developing**
 
 - 🤝 I’m looking for help with **Front End Design Suggestions**
 
